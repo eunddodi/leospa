@@ -12,6 +12,8 @@ html, css를 활용한 반응형 웹 구현
 
 <img width="1440" alt="스크린샷 2022-01-03 오전 12 59 46" src="https://user-images.githubusercontent.com/87167786/147881703-293a1ca2-caf8-4666-924a-ab8ea8129956.png">
 <img width="1440" alt="스크린샷 2022-01-03 오전 12 59 55" src="https://user-images.githubusercontent.com/87167786/147881704-e3f9315d-798c-45b1-98a3-ec8f6575f389.png">
+
+브라우저 너비가 768px 이하일 
 <img width="720" alt="스크린샷 2022-01-03 오전 1 07 14" src="https://user-images.githubusercontent.com/87167786/147881764-98c702a1-f26f-4fa5-bdcc-0641482916c1.png">
 <img width="720" alt="스크린샷 2022-01-03 오전 1 07 43" src="https://user-images.githubusercontent.com/87167786/147881765-1cca04f0-8995-4b34-80b1-753d0e789eb4.png">
 
